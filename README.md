@@ -7,7 +7,7 @@ Required packages
 - numpy
 - mediapipe.
 
-Special thanks to "Murtaza" for his great effort and helping us to understand.
+Special thanks to "Murtaza" for his great effort and helping us to understanding the core concepts.
 
-pls refer to his youtube link for more projects.
+pls refer his youtube link for more projects.
 https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
