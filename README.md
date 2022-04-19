@@ -9,5 +9,5 @@ Required packages
 
 Special thanks to "Murtaza" for his great effort and helping us to understanding the core concepts.
 
-pls refer his youtube link for more projects.
-https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+Reference
+ - https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
